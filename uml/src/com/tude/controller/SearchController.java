@@ -20,5 +20,6 @@ public class SearchController {
 	public SearchService searchService;
 	public String search(String key, String username) {
 	return "";
+	//紫薇
 	}
 }
