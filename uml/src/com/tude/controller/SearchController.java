@@ -14,9 +14,11 @@
 package com.tude.controller;
 
 
+import com.tude.service.SearchService;
+
 public class SearchController {
-	public com.tude.service.SearchService searchService;
+	public SearchService searchService;
 	public String search(String key, String username) {
-	
+	return "";
 	}
 }
